@@ -1,4 +1,4 @@
-###  Ayubowan! 👋
+###  ආයුබෝවන්! 👋
 
 
  🌱 I’m currently learning ... Advaced mathematics/AI/Machine Learning/Scientific Computing.
