@@ -1,11 +1,15 @@
 ###  ආයුබෝවන්! 👋
 
 
- 🌱 I’m currently learning ... Advaced mathematics/AI/Machine Learning/Scientific Computing.
+ 🌱 I’m currently learning ... Advaced mathematics/AI/Machine Learning/Scientific Computing/Data Science.
  
-Currently working on text mining and NLP projects.
+Currently working as a Data Analyst.
  
-Now I am going to engage nlp research related for pali language.
+Engaged and completed Pali to English translator using Neural Machine Translation.
+
+Involved in YOLO image detection project with LLM integration of OpenAI chatmodel.
+
+Completed project for Figma design to HTML and CSS using supervised learning.
  
 
 <!--
