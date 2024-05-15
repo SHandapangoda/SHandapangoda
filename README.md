@@ -10,6 +10,8 @@ Engaged and completed Pali to English translator using Neural Machine Translatio
 Involved in YOLO image detection project with LLM integration of OpenAI chatmodel.
 
 Completed project for Figma design to HTML and CSS using supervised learning.
+
+Working on RAG based Systems, Elastic Search, Webscraping projects
  
 
 <!--
