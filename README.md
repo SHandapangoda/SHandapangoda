@@ -1,17 +1,17 @@
 ###  ආයුබෝවන්! 👋
 
 
- 🌱 I’m currently learning ... Advaced mathematics/AI/Machine Learning/Scientific Computing/Data Science.
+ 🌱 I’m currently learning ... Advanced mathematics/AI/Machine Learning/Scientific Computing/Data Science.
  
-Currently working as a Data Analyst.
+Currently working as a Business Analyst.
  
-Engaged and completed Pali to English translator using Neural Machine Translation.
+Engaged and completed a Pali to English translator using Neural Machine Translation.
 
-Involved in YOLO image detection project with LLM integration of OpenAI chatmodel.
+Involved in YOLO image detection project with LLM integration of OpenAI chat model.
 
 Completed project for Figma design to HTML and CSS using supervised learning.
 
-Working on RAG based Systems, Elastic Search, Webscraping projects
+Working on RAG-based Systems, Elastic Search, and Webscraping projects
  
 
 <!--
